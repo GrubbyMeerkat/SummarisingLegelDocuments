@@ -1,11 +1,11 @@
-# SummarisingLegelDocuments
-3-2 SEM
-Natural Language Processing Course Project
+# SummarisingLegelDocuments<br />
+3-2 SEM<br />
+Natural Language Processing Course Project<br />
 
 **PROJECT BY:**
-**V RAKSHEK                        SE21UCSE274
-LAKSHMI KANTH SAI RANGA PARIMI   SE21UCSE144
-ABHIGNAN SAI ARCOT               SE21UCSE003**
+**V RAKSHEK                        SE21UCSE274<br />
+LAKSHMI KANTH SAI RANGA PARIMI   SE21UCSE144<br />
+ABHIGNAN SAI ARCOT               SE21UCSE003<br />**
 
 **BASIC PRE REQUSISTIES:**
 
