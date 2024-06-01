@@ -4,20 +4,20 @@ Natural Language Processing Course Project<br />
 
 **PROJECT BY:**
 **V RAKSHEK                        SE21UCSE274<br />
-LAKSHMI KANTH SAI RANGA PARIMI   SE21UCSE144<br />
-ABHIGNAN SAI ARCOT               SE21UCSE003<br />**
+LAKSHMI KANTH SAI RANGA PARIMI     SE21UCSE144<br />
+ABHIGNAN SAI ARCOT                 SE21UCSE003<br />**
 
-**BASIC PRE REQUSISTIES:**
+**BASIC PRE REQUSISTIES:<br />**
 
-MAKING A VIRTUAL ENVIRONMENT TO RUN THE FILES 
+MAKE A VIRTUAL ENVIRONMENT TO RUN THE FILES<br /> 
 
-Install "nltk" and "LexRank" on your virtual environment
+Install "nltk" and "LexRank" on your virtual environment<br />
 
-**RUNNING THE PROGRAM**
+**RUNNING THE PROGRAM<br />**
 
-To run the program:
-  #1 >>> RUN prepro.py        #generated proccessed documents
-  #2 >>> RUN AllFIleLex.py    #summarises <<main>> file
+To run the program:<br />
+  #1 >>> RUN prepro.py        #generated proccessed documents<br />
+  #2 >>> RUN AllFIleLex.py    #summarises <<main>> file<br />
 
 
-THANK YOU!!!
+THANK YOU!!!<br />
