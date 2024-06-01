@@ -16,8 +16,8 @@ Install "nltk" and "LexRank" on your virtual environment<br />
 **RUNNING THE PROGRAM<br />**
 
 To run the program:<br />
-  #1 >>> RUN prepro.py        #generated proccessed documents<br />
-  #2 >>> RUN AllFIleLex.py    #summarises <<main>> file<br />
+  #1 >>> RUN prepro.py       #generated proccessed documents<br />
+  #2 >>> RUN AllFIleLex.py   #summarises All files<br />
 
 
 THANK YOU!!!<br />
