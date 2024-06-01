@@ -10,7 +10,7 @@
 ### BASIC PRE-REQUISITES:
 
 ### 1. Make a virtual environment to run the files
-* Install `nltk` and `LexRank` on your virtual environment
+* Install `nltk` and `lexrank` on your virtual environment
 
 ### RUNNING THE PROGRAM
 
