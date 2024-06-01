@@ -1,22 +1,21 @@
-# SummarisingLegelDocuments<br />
-##3-2 SEM<br />
-##Natural Language Processing Course Project<br />
+# Summarising Legal Documents
+## 3-2 SEM
+## Natural Language Processing Course Project
 
-### **PROJECT BY:<br />**
-**V RAKSHEK                        SE21UCSE274<br />
-LAKSHMI KANTH SAI RANGA PARIMI     SE21UCSE144<br />
-ABHIGNAN SAI ARCOT                 SE21UCSE003<br />**
+### PROJECT BY:
+**V Rakshek** - SE21UCSE274  
+**Lakshmi Kanth Sai Ranga Parimi** - SE21UCSE144  
+**Abhignan Sai Arcot** - SE21UCSE003  
 
-### **BASIC PRE REQUSISTIES:<br />**
+### BASIC PRE-REQUISITES:
 
-### 1. MAKE A VIRTUAL ENVIRONMENT TO RUN THE FILES
-  _Install "nltk" and "LexRank" on your virtual environment<br />
+### 1. Make a virtual environment to run the files
+* Install `nltk` and `LexRank` on your virtual environment
 
-### **RUNNING THE PROGRAM<br />**
+### RUNNING THE PROGRAM
 
-1. To run the program:<br />
-    -1 >>> RUN prepro.py       #generated proccessed documents<br />
-    -2 >>> RUN AllFIleLex.py   #summarises All files<br />
+2. To run the program:
+    - Run `prepro.py` to generate processed documents
+    - Run `AllFileLex.py` to summarise all files
 
-
-**THANK YOU!!!<br />**
+**THANK YOU!!!**
