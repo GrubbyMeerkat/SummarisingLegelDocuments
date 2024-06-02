@@ -28,7 +28,7 @@ Initially, we considered training a machine learning model on a large corpus of 
 ---
 
 ## Results and Discussion
-The results of our summarization can be observed in the sample input and output files available on our GitHub page. The summaries are concise and capture the essential information from the original documents. Additionally, the summaries are editable, allowing users to make them shorter or longer based on their preferences.
+The results of our summarization can be observed in the sample input and output files available on our [GitHub](https://github.com/GrubbyMeerkat/SummarisingLegelDocuments) page. The summaries are concise and capture the essential information from the original documents. Additionally, the summaries are editable, allowing users to make them shorter or longer based on their preferences.
 
 ### Sample Code
 Here's a snippet of how you can run the preprocessing and summarization scripts:
@@ -80,12 +80,13 @@ Here's a snippet of how you can run the preprocessing and summarization scripts:
   
 ### RUNNING PROGRAM WITH LEGAL DOCUMENTS OF YOUR CHOICE 
 
-    1. Download the zip files and extract in your directory
-    2. Unzip the file to a directory 
-    3. Naviaget to ```sh
-                        /usr/<PATH>/SummarisingLegalDocuments/RAW DATA
-                    ```
-    4. Add any legal document of your choice and run the code as mentioned in step 2
+1. Download the zip files and extract in your directory
+2. Unzip the file to a directory 
+3. Naviaget to 
+                ```sh
+                    /usr/<PATH>/SummarisingLegalDocuments/RAW DATA
+                ```
+4. Add any legal document of your choice to this directory and run the code as mentioned in step 2
 
 
 
