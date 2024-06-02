@@ -1,7 +1,5 @@
 # Summarising Legal Documents
-## Natural Language Processing Course Project
-## 3-2 SEM
-
+## CS3216 Natural Language Processing Course Project
 
 ### PROJECT BY:
 **V Rakshek** - SE21UCSE274  
